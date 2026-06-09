@@ -1,1 +1,4 @@
-# tup_prog_1_2026_actividad13.1
+# Actividad en el aula 13. Repaso parcial 2
+
+
+[Enunciado](https://docs.google.com/document/d/1QefdC-Jak706Awy3rvzi-u-3S-NEOQIR/preview)
